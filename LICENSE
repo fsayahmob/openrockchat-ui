@@ -1,0 +1,46 @@
+MIT License
+
+Copyright (c) 2024 Mckay Wrigley (Original Chatbot UI)
+Copyright (c) 2024 [Votre Nom] (AWS Bedrock modifications and enhancements)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+==============================================================================
+
+ATTRIBUTION
+
+This project is based on the excellent work of:
+
+1. Chatbot UI by Mckay Wrigley
+   Repository: https://github.com/mckaywrigley/chatbot-ui
+   License: MIT
+   Original Copyright (c) 2024 Mckay Wrigley
+
+2. Inspired by OpenChat UI by imoneoi
+   Repository: https://github.com/imoneoi/openchat-ui
+   
+The following major enhancements have been added:
+- AWS Bedrock integration with streaming support
+- Knowledge Base RAG implementation
+- Character-by-character streaming display
+- React popup widget for integration
+- Multi-provider support (OpenAI + Bedrock)
+- Enhanced model support (Nova, Claude, Llama)
+
+==============================================================================
